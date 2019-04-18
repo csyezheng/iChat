@@ -1,10 +1,10 @@
 debug: true
-assets-path: /home/ye/iChat/assets
-sql-host: 127.0.0.1
-sql-port: 3307
-sql-password:
+assets-path: <replace-me>
+sql-host: <replace-me>
+sql-port: <replace-me>
+sql-password: <replace-me>
 http-host: localhost
 http-mode: release
 http-port: 8080
-database-driver: mysql
-database-dsn: zhengye:csye3631@tcp(127.0.0.1:3307)/discovery?parseTime=true
+database-driver: <replace-me>
+database-dsn: <replace-me>
